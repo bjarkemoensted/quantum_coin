@@ -27,9 +27,9 @@ def index():
     r = get_bin()
 
     if r == 0:
-        return "tails"
+        return "Kamilla"
     else:
-        return "heads"
+        return "Bjarke"
 
 
 if __name__ == "__main__":
